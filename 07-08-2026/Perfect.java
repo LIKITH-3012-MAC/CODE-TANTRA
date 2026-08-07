@@ -12,6 +12,7 @@ int n=sc.nextInt();
             sum+=i;
           }
           f*=i;
+          
       }
      int sums=sum-n;
     System.out.println(" THE FACTORIAL IS : "+f);
