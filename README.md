@@ -2,15 +2,10 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Welcome+to+CODE-TANTRA;Java+Programming+Journey;Daily+Problem+Solving;Learn.+Code.+Build.+Repeat." />
-
-</p>
-
-<p align="center">
-
 ![Java](https://img.shields.io/badge/Java-100%25-orange?style=for-the-badge\&logo=openjdk)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Repository](https://img.shields.io/badge/Daily%20Practice-Active-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Learning-In%20Progress-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 </p>
 
@@ -18,20 +13,25 @@
 
 # 🌌 About
 
-**CODE-TANTRA** is my personal Java programming repository where I practice, solve problems, and continuously improve my programming skills.
+**CODE-TANTRA** is my personal Java programming repository where I solve programming problems, practice Java concepts, and build strong problem-solving skills through daily coding.
 
-The repository is organized date-wise, making it easy to track learning progress and revisit previous concepts.
+The repository is organized **date-wise**, allowing me to track my learning journey, revisit previous programs, and monitor my consistency over time.
+
+This repository serves as my personal coding archive from **Java Basics** to **Advanced Java**, **Data Structures & Algorithms**, and **Interview Preparation**.
 
 ---
 
 # ✨ Highlights
 
-* 📅 Date-wise organized source code
-* ☕ Pure Java programs
-* 🧠 Logic building exercises
+* 📅 Date-wise organized Java programs
+* ☕ Pure Java source code
+* 🧠 Logic-building exercises
 * ⚡ Daily coding practice
-* 📚 Beginner → Advanced journey
-* 🚀 Clean project organization
+* 📚 Beginner → Advanced learning
+* 🚀 Clean folder organization
+* 📈 Easy progress tracking
+* 💻 Interview preparation programs
+* 🎯 Consistency-focused repository
 
 ---
 
@@ -55,80 +55,317 @@ CODE-TANTRA/
 │   ├── Div.java
 │   ├── ...
 │
-└── README.md
+├── 2026-08-01/
+│   ├── Armstrong.java
+│   ├── Fibonacci.java
+│   ├── ...
+│
+├── 2026-08-07/
+│   ├── PerfectFact.java
+│   ├── ...
+│
+├── .gitignore
+├── README.md
+└── .DS_Store
 ```
+
+> **Note:** Every folder represents the Java programs practiced on that particular day.
+
+---
+
+# 📚 Topics Covered
+
+## ✅ Java Basics
+
+* Variables
+* Data Types
+* Operators
+* Type Casting
+* Input & Output
+* Comments
+
+---
+
+## ✅ Control Statements
+
+* if
+* if-else
+* Nested if
+* else-if Ladder
+* switch
+
+---
+
+## ✅ Loops
+
+* for
+* while
+* do-while
+* Nested Loops
+
+---
+
+## ✅ Number Programs
+
+* Even / Odd
+* Prime Number
+* Palindrome
+* Armstrong Number
+* Perfect Number
+* Factorial
+* Reverse Number
+* Fibonacci
+* Multiplication Table
+* Sum of Digits
+* Count Digits
+* Power
+* HCF & LCM
+* Pattern Programs
+
+---
+
+## ✅ Bit Manipulation
+
+* AND
+* OR
+* XOR
+* NOT
+* Left Shift
+* Right Shift
+
+---
+
+## 🔄 Upcoming Topics
+
+* Arrays
+* Strings
+* Functions
+* Recursion
+* Searching
+* Sorting
+* OOP
+* Exception Handling
+* File Handling
+* Collections Framework
+* Generics
+* Multithreading
+* JDBC
+* DSA
+* Competitive Programming
 
 ---
 
 # 🎯 Learning Roadmap
 
-* ✅ Variables
-* ✅ Operators
-* ✅ Conditionals
-* ✅ Loops
-* ✅ Pattern Programs
-* ✅ Number Problems
-* ✅ Bit Manipulation
-* 🔄 Arrays
-* 🔄 Strings
-* 🔄 Recursion
-* 🔄 OOP
-* 🔄 Collections
-* 🔄 DSA
+| Status | Topic                       |
+| ------ | --------------------------- |
+| ✅      | Variables                   |
+| ✅      | Data Types                  |
+| ✅      | Operators                   |
+| ✅      | Input & Output              |
+| ✅      | Conditionals                |
+| ✅      | Loops                       |
+| ✅      | Number Problems             |
+| ✅      | Pattern Programs            |
+| ✅      | Bit Manipulation            |
+| 🔄     | Arrays                      |
+| 🔄     | Strings                     |
+| 🔄     | Methods                     |
+| 🔄     | Recursion                   |
+| 🔄     | Searching                   |
+| 🔄     | Sorting                     |
+| 🔄     | Object-Oriented Programming |
+| 🔄     | Exception Handling          |
+| 🔄     | Collections Framework       |
+| 🔄     | File Handling               |
+| 🔄     | Multithreading              |
+| 🔄     | JDBC                        |
+| 🔄     | Data Structures             |
+| 🔄     | Algorithms                  |
 
 ---
 
-# 💻 Run
+# 💻 How to Run
+
+### Compile
 
 ```bash
 javac FileName.java
+```
+
+### Execute
+
+```bash
 java FileName
+```
+
+Example
+
+```bash
+javac Prime.java
+java Prime
 ```
 
 ---
 
 # ⭐ Repository Goals
 
-* Write Java every day.
-* Improve problem-solving skills.
-* Build a strong DSA foundation.
+* Practice Java every single day.
+* Improve programming logic.
+* Strengthen problem-solving skills.
+* Build a strong Data Structures foundation.
 * Prepare for coding interviews.
-* Track consistent progress.
+* Maintain coding consistency.
+* Document my complete Java learning journey.
+* Track growth through organized daily commits.
 
 ---
 
-# 📈 Progress
+# 📈 Learning Progress
 
 ```text
-Java Basics        ████████████░░░░░░░ 60%
-Problem Solving    ████████░░░░░░░░░░░ 40%
-DSA                ███░░░░░░░░░░░░░░░░ 15%
-Consistency        ██████████████░░░░░ 70%
+Java Basics          ███████████████░░░░░ 75%
+
+Problem Solving      ███████████░░░░░░░░░ 55%
+
+Bit Manipulation     ██████████░░░░░░░░░░ 50%
+
+Arrays               ███░░░░░░░░░░░░░░░░░ 15%
+
+Strings              ██░░░░░░░░░░░░░░░░░░ 10%
+
+Object-Oriented      ░░░░░░░░░░░░░░░░░░░░ 0%
+
+Collections          ░░░░░░░░░░░░░░░░░░░░ 0%
+
+DSA                  ███░░░░░░░░░░░░░░░░░ 15%
+
+Consistency          ██████████████████░░ 90%
 ```
+
+---
+
+# 📅 Daily Learning Workflow
+
+```text
+Learn Concept
+      │
+      ▼
+Write Java Program
+      │
+      ▼
+Compile
+      │
+      ▼
+Debug Errors
+      │
+      ▼
+Execute
+      │
+      ▼
+Understand Logic
+      │
+      ▼
+Push to GitHub
+      │
+      ▼
+Repeat Daily 🚀
+```
+
+---
+
+# 🏆 Repository Milestones
+
+* ✅ Java Environment Setup
+* ✅ Operators
+* ✅ Conditionals
+* ✅ Loops
+* ✅ Number Programs
+* ✅ Bitwise Operators
+* 🔄 Arrays
+* 🔄 Strings
+* 🔄 OOP
+* 🔄 Collections
+* 🔄 DSA
+* 🔄 Interview Problems
 
 ---
 
 # 💡 Philosophy
 
-> "Consistency beats intensity."
+> **"Consistency beats intensity."**
 
-Write one program today.
-Write another tomorrow.
-Small improvements become extraordinary results.
+Every program written today becomes experience tomorrow.
+
+Small improvements every day eventually lead to extraordinary programming skills.
 
 ---
 
 # 🤝 Contributions
 
-This repository is maintained as a personal learning archive. Suggestions and improvements are always welcome.
+This repository is primarily maintained as my personal Java learning archive.
+
+Suggestions, improvements, and constructive feedback are always appreciated.
+
+If you discover a better approach to any program, feel free to open an issue or submit a pull request.
+
+---
+
+# 📌 Future Plans
+
+* Complete Java Mastery
+* Master Object-Oriented Programming
+* Learn Advanced Java
+* Build Java Projects
+* Practice 500+ Java Problems
+* Learn DSA in Java
+* Solve LeetCode Problems
+* Participate in Coding Contests
+* Prepare for Software Engineering Interviews
+
+---
+
+# 📊 Repository Statistics
+
+* ☕ Language: Java
+* 📂 Organized by Date
+* 📅 Updated Regularly
+* 💻 Beginner → Advanced Journey
+* 🚀 Continuous Learning
+* 📖 Personal Coding Archive
+
+---
+
+# ⭐ Support
+
+If you find this repository useful or inspiring,
+
+please consider giving it a ⭐ on GitHub.
+
+It motivates me to keep learning and sharing my progress.
+
+---
+
+# 👨‍💻 Author
+
+**LIKITH NAIDU**
+
+Passionate about
+
+* ☕ Java
+* 💻 Programming
+* 🧠 Problem Solving
+* 🚀 Software Development
+* 📚 Continuous Learning
 
 ---
 
 <p align="center">
 
-### ⭐ If you like this repository, consider giving it a Star!
+### 🚀 Happy Coding!
+
+**"Code. Learn. Improve. Repeat."**
 
 Made with ❤️ by **LIKITH NAIDU**
 
 </p>
-
