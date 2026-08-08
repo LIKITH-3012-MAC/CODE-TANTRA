@@ -4,6 +4,7 @@ public class PowerOfReversedDigits {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+        System.out.print("Enter N: ");
         int n = sc.nextInt();
 
         int temp = n;
@@ -21,7 +22,7 @@ public class PowerOfReversedDigits {
             result = result * n;
         }
 
-        System.out.println(result);
+        System.out.println("Result: " + result);
 
         sc.close();
     }
