@@ -1,4 +1,4 @@
-o
+
 import java.util.*;
 class Dup2 {
     public static void main(String[] args) {
@@ -21,6 +21,9 @@ System.out.println(" ENTER "+n+" ELEMENTS INTO ARRAY..");
             if(count == 1) {
                 System.out.println("Non Duplicate: " + arr[i]);
             }
+            else{
+              System.out.println(" THE DUPLICATE : "+arr[i]);
+          }
         }
     }
 }
